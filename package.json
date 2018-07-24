@@ -1,12 +1,12 @@
 {
   "name": "ui",
   "version": "1.0.0",
-  "description": "This is test",
+  "description": "This is Ragavan test",
   "main": "gulp.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dinesh",
+  "author": "Dinesh Ragavan",
   "license": "ISC",
   "devDependencies": {
     "del": "^2.2.0",
